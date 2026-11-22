@@ -1,0 +1,7 @@
+cd llm-ps23-adt24socbd073
+git init
+git add .
+git commit -m "LLM mini project PS23"
+git branch -M main
+git remote add origin https://github.com/Neelk1047/llm-ps23-adt24socbd073.git
+git push -u origin main
